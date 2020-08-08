@@ -1,4 +1,4 @@
-package SzBank.APIs;
+package SzBank.APIs; //Package do seu Projeto (Alterar)
 
 import org.bukkit.Bukkit;
 import org.bukkit.craftbukkit.v1_8_R3.entity.CraftPlayer;
